@@ -1,8 +1,6 @@
 # Data Science Portfolio
 This repository contains all of my data science projects that I have created in my free time for self learning purposes. Other projects may be added as well.
 
-*NOTE: All datasets located in the data folder are for demonstration purposes only.*
-
 **Natural Language Processing**
 
 - [SMS Ham/Spam Classification](https://github.com/TopukovAndrej/Data-Science-Portfolio/blob/main/.ipynb%20Notebooks/SMS%20Classification.ipynb)
