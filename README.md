@@ -31,3 +31,14 @@ Dataset was obtained from: [https://archive.ics.uci.edu/ml/datasets/wine](https:
 
 Dataset Reference: Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and 
 Computer Science.
+
+- [Iris Classification](https://github.com/TopukovAndrej/Data-Science-Portfolio/blob/main/.ipynb%20Notebooks/Iris%20Classification.ipynb)
+
+This is a very simple project in which I did some data analysis and exploration and also extracted some useful information. The dataset used is the famous Iris 
+dataset. In the end, I classified the data samples using two classification models, a Multi Layer Perceptron and a Gaussian Naive Bayes. Better results were obtained 
+using the Gaussian Naive Bayes model, although I did not use hyperparameter optimization for the MLP model.
+
+Dataset was obtained from: [https://archive.ics.uci.edu/ml/datasets/Iris](https://archive.ics.uci.edu/ml/datasets/Iris)
+
+Dataset Reference: Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of 
+Information and Computer Science.
